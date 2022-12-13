@@ -7,6 +7,10 @@
 
 ## 📩 Connect with me
 <p align="left">
+<p>Gmail: <a>waleedmohamed26420011@gmail.com</a>
+</p>
+<p>Outlook: <a>waleed20191700747@cis.asu.edu.eg</a>
+</p>
 <a href="https://www.linkedin.com/in/waleed-mohamed-a460511b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
 <a href="https://www.facebook.com/waleed.mohamed.96742277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="50" width="60" /></a>
 </p>
