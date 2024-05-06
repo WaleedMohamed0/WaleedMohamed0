@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waleed Mohamed 👑</h1>
-<h2 align="center">Flutter Developer 💎</h2>
+<h2 align="center">Software Tester | QA Engineer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
