@@ -8,6 +8,7 @@
 ## 📩 Connect with me
 - Gmail: waleedmohamed26420011@gmail.com
 - Outlook: waleed20191700747@cis.asu.edu.eg
+- LinkedIn: https://www.linkedin.com/in/waleed-mohamed-a460511b9/
 <p align="left">
 
 <a href="https://www.linkedin.com/in/waleed-mohamed-a460511b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
